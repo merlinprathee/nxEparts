@@ -38,7 +38,7 @@
             }
           ],
           "outputHashing": "all",
-           "baseHref": "/admin/"
+           "baseHref": "/buyer/"
         },
         "development": {
           "optimization": false,
